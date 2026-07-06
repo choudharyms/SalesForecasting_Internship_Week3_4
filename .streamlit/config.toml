@@ -1,0 +1,6 @@
+[tool.streamlit]
+# Streamlit Cloud configuration
+
+[server]
+headless = true
+enableCORS = false
